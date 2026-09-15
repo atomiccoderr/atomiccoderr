@@ -1,10 +1,10 @@
 # Hi there, I'm Chirag Vaishnav 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=atomiccoderr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://linkedin.com/in/chirag-vaishnav-fr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:bsc.cs.chirag@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -13,9 +13,9 @@
 - 🔭 I’m currently working on **[Exciting Project Name]**
 - 🌱 I’m currently learning **Advanced Cloud Architecture, LLMs & Distributed Systems**
 - 👯 I’m looking to collaborate on **Open Source Developer Tools & AI projects**
-- 💬 Ask me about **Full-stack Development, Python, TypeScript, and System Design**
+- 💬 Ask me about **Cybersecu, Python, MySQL, and System Design**
 - ⚡ Fun fact: **I turn caffeine into clean, scalable code ☕💻**
-- 📄 Know more about my work: [Portfolio / Resume Website](https://yourportfolio.com)
+- 📄 Know more about my work: [Portfolio / Resume Website](https://chirag-vaishnav-fr.vercel.app.com)
 
 ---
 
